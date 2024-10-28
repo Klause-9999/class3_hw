@@ -1,2 +1,1 @@
-# class3_hw
-This is homework for 3rd class
+https://klause-9999.github.io/class3_hw/
